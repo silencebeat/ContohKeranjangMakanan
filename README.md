@@ -6,7 +6,7 @@
 
 ## Authors
 
-* **Candra Triyadi a.k.a Silencebeat** - *Freelancer Android Programmer* - [My Profile on Linkedin](https://www.linkedin.com/in/candra-t-fahmi-089990114/)
+* **Candra Triyadi a.k.a Silencebeat** - *Freelance Android Programmer* - [My Profile on Linkedin](https://www.linkedin.com/in/candra-t-fahmi-089990114/)
 
 ## License
 
